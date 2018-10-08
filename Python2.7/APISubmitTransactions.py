@@ -41,7 +41,7 @@ endoutputloc = "Out.xml"
 inputfiledict = {}
 outputfiledict = {}
 
-#populate dictionaries with input and output file paths. Note: input files must be created before used
+#populate dictionaries with the input and the output file paths. Note: input files must be created before used
 for transaction in transactions:
     inputfiledict[transaction] = startinputloc + transaction + endinputloc
     outputfiledict[transaction] = startoutputloc + transaction + endoutputloc
