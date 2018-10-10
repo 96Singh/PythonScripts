@@ -1,0 +1,7 @@
+To enable python to work on windows, please Downloadthe pywin32 module that contains the code necessary for this interaction to work.
+
+Download the required modules from: https://www.lfd.uci.edu/~gohlke/pythonlibs/
+
+Modules required:
+1)pywin32
+2)pyHook
